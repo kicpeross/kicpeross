@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kicpeross" alt="kicpeross" /></a> </p>
 
-- Discord serwer Developer TabMC **TabMC-ManagerBOT**
+- Discord serwer Developer: tabmc.pl | cashcraft.pl .....
 
-- Discord serwer Developer BetMC **BetMC-ManagerBOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
