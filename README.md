@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kicpeross" alt="kicpeross" /></a> </p>
 
-- Discord serwer Developer: tabmc.pl | cashcraft.pl .....
+- Discord Developer: tabmc.pl | cashcraft.pl .....
 
 
 <h3 align="left">Connect with me:</h3>
