@@ -1,7 +1,6 @@
 
 <h3 align="center">Witaj jestem kicpeross</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kicpeross&" alt="kicpeross" /></p>
 
 <h3 align="center">× Jakich języków używam ×</h3>
 <br />
