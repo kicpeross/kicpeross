@@ -20,3 +20,5 @@
 <img draggable="false" alt="MYSQL" width="50px" src="https://imgur.com/AEr81sg.png" />
 </p>
 <hr/>
+<h3 align="center">× Moje statystyki ×</h3>
+
