@@ -25,4 +25,7 @@
 <h3 align="center">× Moje statystyki ×</h3>
 <hr/>
 <p align="center">• test •</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kicpeross&show_icons=true&locale=en" alt="kicpeross" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kicpeross&" alt="kicpeross" /></p>
 <hr/>
