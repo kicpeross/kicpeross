@@ -23,4 +23,7 @@
 <hr/>
 <br/>
 <h3 align="center">× Moje statystyki ×</h3>
+<hr/>
+<p align="center">• test •</p>
+<hr/>
 
