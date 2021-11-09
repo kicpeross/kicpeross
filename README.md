@@ -3,7 +3,6 @@
 
 <h3 align="center">× Jakich języków używam ×</h3>
 <br />
-<hr />
 <p align="center">
 <img draggable="false" alt="JavaScript" width="50px" src="https://imgur.com/msn7dGi.png" />
 <img draggable="false" alt="HTML" width="50px" src="https://imgur.com/s3NIj4N.png" />
