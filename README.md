@@ -1,7 +1,7 @@
 
 <h3 align="center">Witaj jestem kicpeross</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross)]
+<p>(https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross)</p>
 
 <h3 align="center">× Jakich języków używam ×</h3>
 <br />
