@@ -1,6 +1,9 @@
 
 <h3 align="center">Witaj jestem kicpeross</h3>
 
+<h3 align="center">Czym się zajmuje</h3>
+<p>xd </p>
+
 <h3 align="center">× Jakich języków używam ×</h3>
 <hr/>
 <p align="center">
