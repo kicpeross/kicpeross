@@ -8,6 +8,7 @@
 <p align="center">• Skrypty/Pluginy w pod serwery typu: fivem|roblox|mta|cs| •</p>
 <p align="center">• Konfiguracja bazy danych przepisywanie botów discord pod bazę danych •</p>
 <hr/>
+<br/>
 <h3 align="center">× Jakich języków używam ×</h3>
 <hr/>
 <p align="center">
@@ -20,5 +21,6 @@
 <img draggable="false" alt="MYSQL" width="50px" src="https://imgur.com/AEr81sg.png" />
 </p>
 <hr/>
+<br/>
 <h3 align="center">× Moje statystyki ×</h3>
 
