@@ -5,7 +5,7 @@
 <hr/>
 <p align="center">• Autorskie boty DISCORD •</p>
 <p align="center">• Autorskie strony WWW •</p>
-<p align="center">• Skrypty/Pluginy w pod serwery typu: fivem|roblox|mta|cs| •</p>
+<p align="center">• Skrypty/Pluginy w pod serwery typu: | fivem | roblox | mta | cs:go | •</p>
 <p align="center">• Konfiguracja bazy danych przepisywanie botów discord pod bazę danych •</p>
 <hr/>
 <br/>
