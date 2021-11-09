@@ -1,7 +1,7 @@
 
 <h3 align="center">Witaj jestem kicpeross</h3>
 
-<h3 align="center">Czym się zajmuje</h3>
+<h3 align="center">× Czym się zajmuje ×</h3>
 <p align="center">• Autorskie boty DISCORD •</p>
 <p align="center">• Autorskie strony WWW •</p>
 <p align="center">• Skrypty/Pluginy w pod serwery typu: fivem|roblox|mta|cs| •</p>
