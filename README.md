@@ -2,10 +2,10 @@
 <h3 align="center">Witaj jestem kicpeross</h3>
 
 <h3 align="center">Czym się zajmuje</h3>
-<p align="left">• Autorskie boty DISCORD </p>
-<p align="left">• Autorskie strony WWW </p>
-<p align="left">• Skrypty/Pluginy w pod serwery typu: fivem|roblox|mta|cs| </p>
-<p align="left">• Konfiguracja bazy danych przepisywanie botów discord pod bazę danych </p>
+<p align="center">• Autorskie boty DISCORD •</p>
+<p align="center">• Autorskie strony WWW •</p>
+<p align="center">• Skrypty/Pluginy w pod serwery typu: fivem|roblox|mta|cs| •</p>
+<p align="center">• Konfiguracja bazy danych przepisywanie botów discord pod bazę danych •</p>
 
 <h3 align="center">× Jakich języków używam ×</h3>
 <hr/>
