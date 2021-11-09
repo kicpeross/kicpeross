@@ -1,5 +1,5 @@
 
-<h3 align="center">Witaj jestem kicpeross</h3>
+<h3 align="center">» Witaj jestem kicpeross «</h3>
 
 <h3 align="center">× Czym się zajmuje ×</h3>
 <hr/>
